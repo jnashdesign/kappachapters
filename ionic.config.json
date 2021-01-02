@@ -1,0 +1,7 @@
+{
+  "name": "kappa-chapters-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
